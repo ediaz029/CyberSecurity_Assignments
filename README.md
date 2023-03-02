@@ -1,12 +1,12 @@
 # Project 3 - Kali
 
-Time spent: 5 hours spent in total
+Time spent: 3 hours spent in total
 
 **Challenges and Problems**: 
 
-### Installing Docker and Kali
+### Invoking Kali
 
-<img src="docker_kali.gif" alt="Docker Installation">
+<img src="kali.gif" alt="Invoking Kali">
 
 ### Running screenfetch 
 
