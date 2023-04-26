@@ -38,7 +38,9 @@ Time spent: 3.5 hours spent in total
   - Tested in version: 4.1
   - Fixed in version: 
 - [ ] GIF Walkthrough: 
+
 <img src="UserEnum.gif">
+
 - [ ] Steps to recreate: Attempted to login with a username and was prompted with the displayed statement which confirms that the username exists.
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
