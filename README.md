@@ -15,7 +15,7 @@ Time spent: 3.5 hours spent in total
 - [ ] GIF Walkthrough:
 <img src="XSS1.gif">
 
-- [ ] Steps to recreate: Created a post under the 'text' tab with a mouse event (onmouseover()) that runs the script when the mouse hovers over the link.
+- [ ] Steps to recreate: Created a post with (onmouseover()) that runs the script when the mouse hovers over the link.
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
   
@@ -45,31 +45,21 @@ Time spent: 3.5 hours spent in total
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 
-### 4. (Optional) Vulnerability Name or ID
+### 4. Authenticated Shortcode Tags Cross-Site Scripting (XSS)
 
 - [ ] Summary: 
-  - Vulnerability types:
-  - Tested in version:
-  - Fixed in version: 
+  - Vulnerability types: XSS
+  - Tested in version: 4.1
+  - Fixed in version: 4.1.8
 - [ ] GIF Walkthrough: 
-- [ ] Steps to recreate: 
-- [ ] Affected source code:
-  - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-
-### 5. (Optional) Vulnerability Name or ID
-
-- [ ] Summary: 
-  - Vulnerability types:
-  - Tested in version:
-  - Fixed in version: 
-- [ ] GIF Walkthrough: 
-- [ ] Steps to recreate: 
+<img src="shortcode.gif">
+- [ ] Steps to recreate: Added a post composed of shortcode tags which ran the JavaScript code when a mouse hovered over the link.
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php) 
 
 ## Assets
 
-List any additional assets, such as scripts or files
+
 
 ## Resources
 
@@ -84,7 +74,7 @@ GIFs created with  ...
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+Challenges I faced include applying the exploits from what I learned after reading about the vulnerabilities in WordPress.
 
 ## License
 
