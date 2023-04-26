@@ -31,14 +31,15 @@ Time spent: 3.5 hours spent in total
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 
-### 3. (Required) Vulnerability Name or ID
+### 3. User Enumeration
 
 - [ ] Summary: 
-  - Vulnerability types:
-  - Tested in version:
+  - Vulnerability types: User Enumeration
+  - Tested in version: 4.1
   - Fixed in version: 
 - [ ] GIF Walkthrough: 
-- [ ] Steps to recreate: 
+<img src="UserEnum.gif">
+- [ ] Steps to recreate: Attempted to login with a username and was prompted with the displayed statement which confirms that the username exists.
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 
