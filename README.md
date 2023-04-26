@@ -26,7 +26,7 @@ Time spent: 3.5 hours spent in total
   - Tested in version: 4.1
   - Fixed in version: 4.2.1
 - [ ] GIF Walkthrough: 
-<img src="XSSCmmnt.gif">
+<img src="XSSC.gif">
 - [ ] Steps to recreate: Inserted a comment with JavaScript code alongside over 66,000+ characters (64KB) which executed the script.
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
