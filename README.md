@@ -12,8 +12,10 @@ Time spent: **X** hours spent in total
   - Vulnerability types: XSS
   - Tested in version: 4.1
   - Fixed in version: 4.2.3
-- [ ] GIF Walkthrough: 
-- [ ] Steps to recreate: 
+- [ ] GIF Walkthrough:
+<img src="XSS1.gif">
+
+- [ ] Steps to recreate: Created a post under the 'text' tab with a mouse event (onmouseover()) that runs the script when the mouse hovers over the link.
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
   
@@ -24,7 +26,6 @@ Time spent: **X** hours spent in total
   - Tested in version:
   - Fixed in version: 
 - [ ] GIF Walkthrough: 
-<img src="XSS1.gif">
 - [ ] Steps to recreate: 
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
