@@ -1,13 +1,13 @@
 # Project 7 - WordPress Pen Testing
 
-Time spent: **X** hours spent in total
+Time spent: 3.5 hours spent in total
 
 > Objective: Find, analyze, recreate, and document **five vulnerabilities** affecting an old version of WordPress
 
 ## Pen Testing Report
 
-### 1. (Required) Authenticated Stored Cross-Site Scripting (XSS)
-
+### 1. Authenticated Stored Cross-Site Scripting (XSS)
+ 
 - [ ] Summary: 
   - Vulnerability types: XSS
   - Tested in version: 4.1
@@ -19,14 +19,15 @@ Time spent: **X** hours spent in total
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
   
-### 2. (Required) Vulnerability Name or ID
+### 2. Unauthenticated Stored Cross-Site Scripting (XSS)
 
 - [ ] Summary: 
-  - Vulnerability types:
-  - Tested in version:
-  - Fixed in version: 
+  - Vulnerability types: XSS
+  - Tested in version: 4.1
+  - Fixed in version: 4.2.1
 - [ ] GIF Walkthrough: 
-- [ ] Steps to recreate: 
+<img src="XSSCmmnt.gif">
+- [ ] Steps to recreate: Inserted a comment with JavaScript code alongside over 66,000+ characters (64KB) which executed the script.
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 
