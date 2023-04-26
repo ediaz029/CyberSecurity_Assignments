@@ -52,7 +52,9 @@ Time spent: 3.5 hours spent in total
   - Tested in version: 4.1
   - Fixed in version: 4.1.8
 - [ ] GIF Walkthrough: 
+
 <img src="shortcode.gif">
+
 - [ ] Steps to recreate: Added a post composed of shortcode tags which ran the JavaScript code when a mouse hovered over the link.
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php) 
