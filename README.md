@@ -46,11 +46,17 @@ Description: Attacker is able to insert a script through the feedback comment se
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: Insecure Direct Object Reference (IDOR)
 
-Description:
+Description: 
 
-<img src="red-vuln1.gif">
+<img src="redIDOR.gif">
+
+Vulnerability #1: Cross-Site Request Forgery (CSRF)
+
+Description: 
+
+<img src="redCSRF.gif">
 
 
 ## Notes
