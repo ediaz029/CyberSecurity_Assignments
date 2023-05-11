@@ -48,7 +48,7 @@ Description: Attacker is able to insert a script through the feedback comment se
 
 Vulnerability #1: Insecure Direct Object Reference (IDOR)
 
-Description: 
+Description: Attacker is able to view details of a salesperson's account that should not be visible to the public by changing the session ID. This changes the GET request. The other two sites made this private by redirecting the website back to the original page when trying to acces an illegal ID.
 
 <img src="redIDOR.gif">
 
