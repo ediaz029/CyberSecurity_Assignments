@@ -52,15 +52,8 @@ Description: Attacker is able to view details of a salesperson's account that sh
 
 <img src="redIDOR.gif">
 
-Vulnerability #1: Cross-Site Request Forgery (CSRF)
-
-Description: Submitted HTML form makes changes to the website.
-
-<img src="redCSRF.gif">
-
-
 ## Notes
 
-Describe any challenges encountered while doing the work
+I encountered many tedious challenges throughout the project assignment. I struggled the most with trying to find a second vulnerability (CSRF) with the red website, but I was not successful.
 
 
