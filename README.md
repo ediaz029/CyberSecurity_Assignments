@@ -19,9 +19,9 @@ Each color is vulnerable to only 2 of the 6 possible exploits. First discover wh
 
 Vulnerability #1: SQL Injection
 
-Description:
+Description: The attacker is able to inject SQL query commands.
 
-<img src="blue-vuln1.gif">
+<img src="blueSQL.gif">
 
 Vulnerability #2: Session Hijacking/Fixation
 
