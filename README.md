@@ -54,7 +54,7 @@ Description: Attacker is able to view details of a salesperson's account that sh
 
 Vulnerability #1: Cross-Site Request Forgery (CSRF)
 
-Description: 
+Description: Submitted HTML form makes changes to the website.
 
 <img src="redCSRF.gif">
 
