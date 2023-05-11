@@ -37,6 +37,12 @@ Description: Attempt to log in with an existing user displays a different text f
 
 <img src="greenUSERE.gif">
 
+Vulnerability #2: Cross-Site Scripting (XSS)
+
+Description: Attacker is able to insert a script through the feedback comment section, which is then run when victim (logged-in user) clicks on the feedback tab.
+
+<img src="greenXSS.gif">
+
 
 ## Red
 
