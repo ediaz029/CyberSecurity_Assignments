@@ -25,9 +25,9 @@ Description: The attacker is able to inject SQL query commands.
 
 Vulnerability #2: Session Hijacking/Fixation
 
-Description:
+Description: Session ID of a logged-in user is able to be retrieved using the php script provided. An attacker is able to use the victim's session ID and log into the website without credentials.
 
-<img src="simon">
+<img src="blueSESSION.gif">
 
 ## Green
 
