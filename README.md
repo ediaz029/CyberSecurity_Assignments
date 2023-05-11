@@ -31,11 +31,11 @@ Description: Session ID of a logged-in user is able to be retrieved using the ph
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: Username Enumeration
 
-Description:
+Description: Attempt to log in with an existing user displays a different text format than a non-registered user, which is useful for an attacker to brute force a log in.
 
-<img src="green-vuln1.gif">
+<img src="greenUSERE.gif">
 
 
 ## Red
