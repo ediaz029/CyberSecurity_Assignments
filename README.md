@@ -12,7 +12,7 @@
 
 ### Dionaea Honeypot Deployment (Required)
 
-**Summary:**  Dionaea serves as a decoy designed to attract potential attackers, gather information about their tactics, and enhance overall cybersecurity by learning from their activities.
+**Summary:**  Dionaea serves as a decoy designed to attract potential attackers, gather information about their tactics, and enhance overall cybersecurity by learning from their activities. I was able to attract 425 attacks.
 
 <img src="dionaea-honeypot.gif">
 
