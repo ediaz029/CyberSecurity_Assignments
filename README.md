@@ -12,13 +12,14 @@
 
 ### Dionaea Honeypot Deployment (Required)
 
-**Summary:** Dionaea is a honeypot instance that detects attacks from anywhere. Its purpose includes better management and prevention of attacks.
+**Summary:**  Dionaea serves as a decoy designed to attract potential attackers, gather information about their tactics, and enhance overall cybersecurity by learning from their activities.
 
 <img src="dionaea-honeypot.gif">
 
 ### Database Backup (Required) 
 
-**Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
+**Summary:** What information does the exported JSON file record?
+MHN-Admin uses MongoDB, a NoSQL database system, to store and retrieve information.
 
 *Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
 
