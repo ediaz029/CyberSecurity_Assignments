@@ -6,13 +6,13 @@
 
 ### MHN-Admin Deployment (Required)
 
-**Summary:** I deployed it using GCP.
+**Summary:** I deployed the instances using GCP.
 
 <img src="mhn-admin.gif">
 
 ### Dionaea Honeypot Deployment (Required)
 
-**Summary:** Briefly in your own words, what does dionaea do?
+**Summary:** Briefly in your own words, what does dionaea do? Dionaea is a honeypot instance that detects attacks from anywhere. Its purpose includes a better management and prevention of attacks.
 
 <img src="dionaea-honeypot.gif">
 
