@@ -18,12 +18,9 @@
 
 ### Database Backup (Required) 
 
-**Summary:** What information does the exported JSON file record?
-MHN-Admin uses MongoDB, a NoSQL database system, to store and retrieve information.
-
-*Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
+**Summary:** MHN-Admin uses MongoDB, a NoSQL database system, to store and retrieve information. The uploaded JSON file records timestamps and source IP addresses.
 
 ## Notes
 
-Describe any challenges encountered while doing the assignment.
+The challenges I encountered include setting up the honeypots in GCP; it took me the most time since I had to run the scripts provided several times.
 
